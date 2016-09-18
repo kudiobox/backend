@@ -9,6 +9,7 @@ New branch must be from latest state of `development`, new pr has to compare to 
 
 ## Branch naming:
 [tag-description]
+
 major-loginview
 
 Tags:
